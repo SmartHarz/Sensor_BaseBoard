@@ -353,13 +353,16 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "BME688_Breakout_Board"
+    ],
     "pinned_symbol_libs": [
-      "BHIT_KiCAD_Library"
+      "BHIT_KiCAD_Library",
+      "BME688_Breakout_Board"
     ]
   },
   "meta": {
-    "filename": "BME688_Breadboard.kicad_pro",
+    "filename": "BME688_Breakout_Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
