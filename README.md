@@ -1,4 +1,4 @@
-# Bosch Sensortec BMEx80 Breadboard Adapter
+# Bosch Sensortec BME688 Breadboard Adapter
 
 A simplistic sensor base board for BME688 air quality sensor by Bosch Sensortec
 
