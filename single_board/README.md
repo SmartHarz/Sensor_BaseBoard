@@ -3,10 +3,12 @@
 This folder contains the [KiCAD](https://www.kicad.org/) project for the single adapter.
 
 ## Schematic
+
 ![Adapter schematic](../images/BME688_Schematic.png)
 PDF of the schematic is available [here](BME688_Breakout_Board_Schematic.pdf).
 
 ## Layout
+
 ![Adapter layout front](../images/BME688_Breakout_Board_front.png)
 ![Adapter layout back](../images/BME688_Breakout_Board_back.png)
 
